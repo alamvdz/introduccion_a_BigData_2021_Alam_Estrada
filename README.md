@@ -1,6 +1,5 @@
 ###Comandos basicos de git
 
-
 ```sh
 $ git clone <url>
 $ git add
