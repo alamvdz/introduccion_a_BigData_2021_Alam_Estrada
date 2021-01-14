@@ -8,3 +8,11 @@ $ git commit -m "un mensaje nuevo"
 git push origin master
 ```
 
+```sh
+$ docker run -i t <SO>
+$ docker run -it -p <p.salida/p.interno><servicio>
+$ docker ps
+$ docker exec -it <id-container> cat <dirección del txt>
+$ docker rm -f <id-container>
+```
+
